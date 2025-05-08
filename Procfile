@@ -1,0 +1,1 @@
+worker: python3 wechat_cloud.py 
